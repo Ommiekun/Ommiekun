@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ommiekun
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently beginner
